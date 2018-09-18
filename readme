@@ -1,1 +1,14 @@
-Reaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad meeeeeeeeeeeeeeeeeeeeeeeeeee
+In the task of FizzBuzz an integer divisible by 3 is printed as Fizz, and integer divisible by 5 is printed as Buzz. An integer divisible by both 3 and
+5 is printed as FizzBuzz. If an integer is not divisible by 3 or 5 or 15 is printed as Other.
+The program will be tested on how well they perform in converting integers from 1 to 100 to the FizzBuzz labels.
+
+The main motive of the project is to analyse the performance of your program using accuracy measures subject to changes in the model parameters. Also accuracy for Fizz, Buzz and FizzBuzz. Show how the choice of
+hyper-parameters affects performance in the form of graphs (for example, you can show how the dropout rate affects the cross entropy loss with a figure where
+the x axis is the dropout rate ranging from 0.1 to 1 and y axis being the cross entropy).Tune the model with different network settings
+such as different number of layers in the network, different number of nodes in each layer, different optimization methods such as SGD, Adagrad, Adadelta,
+Rmsprop and Adam, different dropout rates, different activation functions such as sigmoid, tanh, relu and leaky relu etc.
+
+To run the model,
+Open it in google colaboratory.
+A section features a user interative form to change the parameters of the model(eg. loss function/ optimizer etc)
+Customize it, run it, check the metrics and graphical changes in the model.
